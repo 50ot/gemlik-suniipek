@@ -1,1 +1,2 @@
 Burada gerekli hata düzeltmelerini yaptım.
+-- 18.01.2022
